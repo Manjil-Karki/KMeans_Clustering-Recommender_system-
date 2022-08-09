@@ -26,8 +26,12 @@ The k-means clustering algorithm mainly performs two tasks:
 
  **About running the scripts**
  
- scraper.py to scrape imdb website
- pre-processing.py to preprocess the scraped data and store in desired format
- clustercode.py to prepare data and fit to kmeans clustering model from sklearn
- main.py to run the code in order no need to run pre process and clustercode they are imported by main and run automatically
- plot.py to plot the cluster results 
+ ✅ scraper.py to scrape imdb website
+ 
+ ✅ pre-processing.py to preprocess the scraped data and store in desired format
+ 
+ ✅ clustercode.py to prepare data and fit to kmeans clustering model from sklearn
+ 
+ ✅ main.py to run the code in order no need to run pre process and clustercode they are imported by main and run automatically
+ 
+ ✅ plot.py to plot the cluster results 
